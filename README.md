@@ -40,9 +40,12 @@ I then sought to determine how the malware initially infiltrated the host. Unfor
 TASKS
 
 Executive Summary:
+
 As early as 2024-09-04, at 17:35 UTC (exact time and date is unknown), a Windows host DESKTOP-RNVO9AT utilized by user Andrew Fletcher exhibited indications of infection by Koi Stealer malware.
+_________________________________________________________________________________________________________________________________________________________________________________________________
 
 Victim Details:
+
 Hostname: DESKTOP-RNVO9AT
 
 Ip address: 172.17.0.99
@@ -50,9 +53,10 @@ Ip address: 172.17.0.99
 Mac address: 18:3d:a2:b6:8d:c4
 
 Windows user account name: afletcher
-
+_________________________________________________________________________________________________________________________________________________________________________________________________
 
 Indicators of Compromise (IOCs):
+
 Suspicous Ip address/URL: 79.124.78.197
 
 Ip address and domain potentially related to infection: 46.254.34.201/ www.bellantonicioccolato.it
